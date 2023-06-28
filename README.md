@@ -1,5 +1,1 @@
-- Hello, I’m @nmrockwell
-- I’m interested in ...
-> R, R Shiny, Perl, Python, JavaScript, and Julia
-- I’m currently learning ...
-> Additional R Shiny development, Perl, and JS. 
+- Hello, I’m @nmrockwell.
